@@ -90,6 +90,8 @@ Blood Donation Portal
         <label for="username">Username:</label>
         <input type="text" class="form-control" id="username" name="username" required>
       </div>
+	<br>
+	<br>	    
       <div class="form-group">
         <label for="pwd">Password:</label>
         <input type="password" class="form-control" id="pwd" name="password" required>
